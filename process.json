@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"      : "discord-bot_name",
+    "script"    : "python",
+    "args"      : ["bot.py"],
+    "watch"     : true
+  }]
+}
